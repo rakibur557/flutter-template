@@ -17,11 +17,11 @@
 //     }
 //     return null;
 //   }
-
-  static String? validateNullAndEmptyField(String? value, String name) {
-    if (value == null || value.trim().isEmpty) {
-      return name;
-    }
-    return null;
-  }
-}
+//
+//   static String? validateNullAndEmptyField(String? value, String name) {
+//     if (value == null || value.trim().isEmpty) {
+//       return name;
+//     }
+//     return null;
+//   }
+// }
